@@ -1,4 +1,5 @@
-# 📡 CCNA 200-301 Study Skill for Claude
+
+CCNA 200-301 Study Skill for Claude
 
 > **I built this skill because I believe AI should make studying smarter, not harder.**
 > Instead of reading through hundreds of pages alone, this skill gives you an intelligent study partner that explains concepts, quizzes you, tracks your progress, and adapts to your level — all inside Claude.
@@ -8,7 +9,7 @@ A Claude skill that turns any Cowork or Claude Desktop session into a structured
 
 ---
 
-## ✨ Features
+##  Features
 
 | Mode | Trigger | What You Get |
 |------|---------|--------------|
@@ -33,7 +34,7 @@ A Claude skill that turns any Cowork or Claude Desktop session into a structured
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Option 1 — Install `.skill` file (Recommended)
 1. Download [`ccna-study.skill`](./ccna-study.skill)
@@ -51,7 +52,7 @@ A Claude skill that turns any Cowork or Claude Desktop session into a structured
 
 ---
 
-## 🚀 Example Prompts
+##  Example Prompts
 
 ```
 Quiz me on OSPF neighbor states
@@ -66,7 +67,7 @@ What ports does DNS use?
 
 ---
 
-## 📊 Personal Progress Tracking
+##  Personal Progress Tracking
 
 The skill includes a **21-topic progress tracker** across all 6 domains.
 
